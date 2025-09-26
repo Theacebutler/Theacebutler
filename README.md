@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Theace's GitHub stats](https://github-readme-stats.vercel.app/api?username=theacebutler&show_icons=true&theme=radical)
 
 ![Theacebutler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theacebutler&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=500)
 
