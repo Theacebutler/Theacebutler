@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, curious internet traveler 🥾🛜
 
 ## 💼 (Some of) My Projects
 
