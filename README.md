@@ -2,10 +2,10 @@
 
 ## 💼 (Some of) My Projects
 
-- Word Of The Day:\ [https://word-game-7byh.onrender.com](https://word-game-7byh.onrender.com)
+- Word Of The Day:/ [https://word-game-7byh.onrender.com](https://word-game-7byh.onrender.com)
  (inspired by [wordle](https://www.nytimes.com/games/wordle/index.html))
-- Todo App:\ [https://react-todo-app-u9nn.onrender.com](https://react-todo-app-u9nn.onrender.com)
-- Nasa Image of the day:\ [https://nasa-image-of-te-day.onrender.com](https://nasa-image-of-te-day.onrender.com)
+- Todo App:/ [https://react-todo-app-u9nn.onrender.com](https://react-todo-app-u9nn.onrender.com)
+- Nasa Image of the day:/ [https://nasa-image-of-te-day.onrender.com](https://nasa-image-of-te-day.onrender.com)
 </br></br></br>
 
 ## 📊 My Stats
