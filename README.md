@@ -6,7 +6,7 @@
  (inspired by [wordle](https://www.nytimes.com/games/wordle/index.html))
 - Todo App: [https://react-todo-app-u9nn.onrender.com](https://react-todo-app-u9nn.onrender.com)
 - Nasa Image of the day: [https://nasa-image-of-te-day.onrender.com](https://nasa-image-of-te-day.onrender.com)
-</br></br></br>
+
 
 ## 📊 My Stats
 ![Theacebutler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theacebutler&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=250)
