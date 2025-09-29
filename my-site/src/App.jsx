@@ -10,8 +10,8 @@ function App() {
     <>
       <div className="main">
         <Card name={'Word Of The Day'} url={'https://word-game-7byh.onrender.com/'} />
-        <Card name={'Todo App'} url={'https://react-todo-app-u9nn.onrender.com/'} />
         <Card name={'Image Of The Day'} url={'https://nasa-image-of-te-day.onrender.com/'} />
+        <Card name={'Todo App'} url={'https://react-todo-app-u9nn.onrender.com/'} />
         <Footer />
       </div>
     </>
