@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+* {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: rgba(9, 9, 9, 0.9);
+    color: white;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: whitesmoke;
+    color: black;
+  }
+}
