@@ -16,7 +16,9 @@
 
 
 <a href="https://app.daily.dev/theace92"><img src="https://api.daily.dev/devcards/v2/oDDHtSqDTUPiCnFDEPRJz.png?type=wide&r=nk9" width="652" alt="Theace's Dev Card"/></a>
-
+<a>
+https://t.daily.dev/e/c/eyJlbWFpbF9pZCI6IlJMbkNDUVVBQVptZHREMEdXMmJWcUdBeXpNREhaZz09IiwiaHJlZiI6Imh0dHBzOi8vbWVkaWEuZGFpbHkuZGV2L2ltYWdlL3VwbG9hZC9zLS1xLTI2aFo2Zi0tL2ZfYXV0by92MTc1OTI4NzQ1Ny90b3BfcmVhZGVyX2JhZGdlLzdmNDIwZjIwLTM1MTEtNDg5Yy05MjZmLTlhYWIxNmIxY2M3Nz9fYT1CQU1BSytaVzAiLCJpbnRlcm5hbCI6ImI5YzIwOTQyOGIyM2VjOGY3OSIsImxpbmtfaWQiOjUwNX0/d4cf339bf02b5ad6d1f36adf3b0ad87a5d52d6779b2435207296106ed71a4981
+</a>
 
 
 <!--
