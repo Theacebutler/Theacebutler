@@ -7,11 +7,16 @@
 - Todo App: [https://react-todo-app-u9nn.onrender.com](https://react-todo-app-u9nn.onrender.com)
 - Nasa Image of the day: [https://nasa-image-of-te-day.onrender.com](https://nasa-image-of-te-day.onrender.com)
 
+<div>
+ 
 
-## 📊 My Stats
-![Theacebutler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theacebutler&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=450)
+<h2>
+📊 My Stats
+</h2> 
 
-![Theace's GitHub stats](https://github-readme-stats.vercel.app/api?username=theacebutler&show_icons=true&theme=radical)
+ <img src="https://wakatime.com/share/@Theace/abe5d105-2ab8-4225-b42b-83b66ef22ba5.svg" width="50%">
+
+
 
 
 
@@ -24,6 +29,7 @@
 <img src="https://t.daily.dev/e/c/eyJlbWFpbF9pZCI6IlJMbkNDUVVBQVptZHREMEdXMmJWcUdBeXpNREhaZz09IiwiaHJlZiI6Imh0dHBzOi8vbWVkaWEuZGFpbHkuZGV2L2ltYWdlL3VwbG9hZC9zLS1xLTI2aFo2Zi0tL2ZfYXV0by92MTc1OTI4NzQ1Ny90b3BfcmVhZGVyX2JhZGdlLzdmNDIwZjIwLTM1MTEtNDg5Yy05MjZmLTlhYWIxNmIxY2M3Nz9fYT1CQU1BSytaVzAiLCJpbnRlcm5hbCI6ImI5YzIwOTQyOGIyM2VjOGY3OSIsImxpbmtfaWQiOjUwNX0/d4cf339bf02b5ad6d1f36adf3b0ad87a5d52d6779b2435207296106ed71a4981" alt="django top reader"  align="center" /img>
 </a>
 
+</div>
 
 <!--
 **Theacebutler/Theacebutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
