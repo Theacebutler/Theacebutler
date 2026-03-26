@@ -1,19 +1,5 @@
 # Hi there, curious internet traveler 🥾🛜
 
-## 💼 (Some of) My Projects
-<ul>
-   <li>
-   <a href="https://word-game-7byh.onrender.com">Word of the day</a>
-    (inspired by <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a>)
-   </li>
-   <li>
-    <a href="https://react-todo-app-u9nn.onrender.com">React Todo App</a>
-   </li>
-   <li>
-    <a href="https://nasa-image-of-te-day.onrender.com">Nasa Image of the day</a>
-   </li>
-</ul>
-
 ## 📊 Some Stats
 
 <div style="width: 75%; margin:auto;height: 500px;">
