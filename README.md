@@ -1,19 +1,38 @@
 # Hi there, curious internet traveler 🥾🛜
 
+**Avi B** (Theacebutler) · 🏠 Working from home · 👥 3 followers · 13 following
+
+## Find me at
+
+- [acbutler.dev](https://acbutler.dev)
+- [daily.dev/theace92](https://app.daily.dev/theace92)
+- [codemasteravi.substack](https://codemasteravi.substack.com)
+- [wonderful.dev/theacebutler](https://wonderful.dev/theacebutler)
+
+## Tech Stack
+
+- **Languages**: Lua, Go, Shell, JavaScript, TypeScript, Python.
+- **Editor**: Neovim enthusiast and user. I love [zed](https://zed.dev/).
+- **Environment**: Linux, Bash Shell, Tmux, Neovim, Kitty
+- **Interests**: HTTP servers, REATfuul APIs, Neovim plugins and tools for other
+  devs and learning how things work under the hood.
+
+## Neovim Plugins
+
+[cheat.nvim](https://github.com/Theacebutler/cheat.nvim): A cheat.sh client for nvim  
+ [notes.nvim](https://github.com/Theacebutler/notes.nvim): A note taking plugin for nvim  
+ [first-try.nvim](https://github.com/Theacebutler/first-try.nvim): A "first try" counter for neovim  
+ [stick.nvim](https://github.com/Theacebutler/stick.nvim): Stick code sections to the top of your screen
+
+## Make a server in every language i know
+
+[httpServer](https://github.com/Theacebutler/httpServer) - Go
+
+[bashServer](https://github.com/Theacebutler/bashServer) - Bash
+
+More to come...
+
 ## 📊 Some Stats
 
-<div style="width: 75%; margin:auto;height: 500px;">
- <img src="https://wakatime.com/share/@Theace/abe5d105-2ab8-4225-b42b-83b66ef22ba5.svg" style="margin: 10px; border-radius: 20px;">
+[![WakaTime](https://wakatime.com/share/@Theace/5c0243f9-d64f-40df-980f-21009daae5ed.png)](https://wakatime.com/)
 
-<div style="display: flex;gap: 10px; ">
-<div>
-<img src="https://api.daily.dev/devcards/v2/oDDHtSqDTUPiCnFDEPRJz.png?type=wide&r=nk9" alt="Theace's Dev Card" style="margin: 10px; border-radius: 20px;"/>
-</div>
-<div>
-<a href="https://app.daily.dev/theace92">
-<img src="https://t.daily.dev/e/c/eyJlbWFpbF9pZCI6IlJMbkNDUVVBQVptZHREMEdXMmJWcUdBeXpNREhaZz09IiwiaHJlZiI6Imh0dHBzOi8vbWVkaWEuZGFpbHkuZGV2L2ltYWdlL3VwbG9hZC9zLS1xLTI2aFo2Zi0tL2ZfYXV0by92MTc1OTI4NzQ1Ny90b3BfcmVhZGVyX2JhZGdlLzdmNDIwZjIwLTM1MTEtNDg5Yy05MjZmLTlhYWIxNmIxY2M3Nz9fYT1CQU1BSytaVzAiLCJpbnRlcm5hbCI6ImI5YzIwOTQyOGIyM2VjOGY3OSIsImxpbmtfaWQiOjUwNX0/d4cf339bf02b5ad6d1f36adf3b0ad87a5d52d6779b2435207296106ed71a4981" alt="django top reader"  style="margin: 10px; border-radius: 20px;">
-</a>
-</div>
-
-  </div>
-</div>
