@@ -3,7 +3,7 @@
 **Avi B** (Theacebutler) · 🏠 Working from home · 👥 3 followers · 13 following
 
 ## Find me at
-
+- [Linkedin](https://www.linkedin.com/in/theacebutler/)
 - [acbutler.dev](https://acbutler.dev)
 - [daily.dev/theace92](https://app.daily.dev/theace92)
 - [codemasteravi.substack](https://codemasteravi.substack.com)
