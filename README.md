@@ -11,10 +11,10 @@
 
 ## Tech Stack
 
-- **Languages**: Lua, Go, Shell, JavaScript, TypeScript, Python.
-- **Editor**: Neovim enthusiast and user. I love [zed](https://zed.dev/).
+- **Languages**: TypeScript, Python, Go, Shell.
+- **Editor**: Neovim enthusiast and user. I love [zed](https://zed.dev/) as well.
 - **Environment**: Linux, Bash Shell, Tmux, Neovim, Kitty
-- **Interests**: HTTP servers, REATfuul APIs, Neovim plugins and tools for other
+- **Interests**: HTTP servers, REATfuul APIs, Neovim plugins, tools for other
   devs and learning how things work under the hood.
 
 ## Neovim Plugins
