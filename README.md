@@ -7,6 +7,7 @@
 - [acbutler.dev](https://acbutler.dev)
 - [daily.dev/theace92](https://app.daily.dev/theace92)
 - [codemasteravi.substack](https://codemasteravi.substack.com)
+
 ## Tech Stack
 
 - **Languages**: TypeScript, Python, Go, Shell.
@@ -14,28 +15,26 @@
 - **Environment**: Linux, Bash Shell, Tmux, Neovim, Kitty
 - **Interests**:
   - HTTP servers. 
-  - REATfull APIs. 
-  -  Neovim plugins. 
-  -  Dev tools.
-  -  Linux 
-  -  learning how things work under the hood.
+  - RESTful APIs. 
+  - Neovim plugins. 
+  - Dev tools.
+  - Linux 
+  - Learning how things work under the hood.
 
 ## Neovim Plugins
 
-[cheat.nvim](https://github.com/Theacebutler/cheat.nvim): A cheat.sh client for nvim  
- [notes.nvim](https://github.com/Theacebutler/notes.nvim): A note taking plugin for nvim  
- [first-try.nvim](https://github.com/Theacebutler/first-try.nvim): A "first try" counter for neovim  
- [stick.nvim](https://github.com/Theacebutler/stick.nvim): Stick code sections to the top of your screen
+- [cheat.nvim](https://github.com/Theacebutler/cheat.nvim): A cheat.sh client for nvim  
+- [notes.nvim](https://github.com/Theacebutler/notes.nvim): A note taking plugin for nvim  
+- [first-try.nvim](https://github.com/Theacebutler/first-try.nvim): A "first try" counter for neovim  
+- [stick.nvim](https://github.com/Theacebutler/stick.nvim): Stick code sections to the top of your screen
 
-## Make a server in every language i know
+## Make a server in every language I know
 
-[httpServer](https://github.com/Theacebutler/httpServer) - Go
-
-[bashServer](https://github.com/Theacebutler/bashServer) - Bash
+- [httpServer](https://github.com/Theacebutler/httpServer) - Go
+- [bashServer](https://github.com/Theacebutler/bashServer) - Bash
 
 More to come...
 
 ## 📊 Some Stats
 
 [![WakaTime](https://wakatime.com/share/@Theace/5c0243f9-d64f-40df-980f-21009daae5ed.png)](https://wakatime.com/)
-
