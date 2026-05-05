@@ -1,6 +1,6 @@
 # Hi there, curious internet traveler 🥾🛜
 
-**Avi B** (Theacebutler) · 🏠 Working from home · 👥 3 followers · 13 following
+**Avi B** (Theacebutler) · 🏠 Working from home · 👥 4 followers · 13 following
 
 ## Find me at
 - [Linkedin](https://www.linkedin.com/in/theacebutler/)
