@@ -12,8 +12,13 @@
 - **Languages**: TypeScript, Python, Go, Shell.
 - **Editor**: Neovim user and enthusiast. I love [zed](https://zed.dev/) as well.
 - **Environment**: Linux, Bash Shell, Tmux, Neovim, Kitty
-- **Interests**: HTTP servers, REATfuul APIs, Neovim plugins, tools for other
-  devs and learning how things work under the hood.
+- **Interests**:
+  - HTTP servers. 
+  - REATfull APIs. 
+  -  Neovim plugins. 
+  -  Dev tools.
+  -  Linux 
+  -  learning how things work under the hood.
 
 ## Neovim Plugins
 
