@@ -7,8 +7,6 @@
 - [acbutler.dev](https://acbutler.dev)
 - [daily.dev/theace92](https://app.daily.dev/theace92)
 - [codemasteravi.substack](https://codemasteravi.substack.com)
-- [wonderful.dev/theacebutler](https://wonderful.dev/theacebutler)
-
 ## Tech Stack
 
 - **Languages**: TypeScript, Python, Go, Shell.
